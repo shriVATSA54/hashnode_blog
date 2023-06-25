@@ -72,4 +72,6 @@ I enjoyed using and utilizing the rix.chat.
     
 * Students like me can always learn new things from this and benefit. Can learn new and efficient ways to solve a particular problem.
     
-* It can provide a summary of the blog, etc by just providing the link to the source.
+* *It can provide a summary of the blog, etc by just providing the link to the source.*
+    
+* <mark>Creator mode provides clean, efficient and optimized code in any language python, java, C as requested.</mark>
